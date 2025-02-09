@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Reptiled<br><br>- 🔭 I’m working at (Nova)[https://nova.wtf]<br>- 📚 I'm currently learning C++</p>
+<p align="left">I'm Reptiled<br><br>- 🔭 I’m working at [Nova](https://nova.wtf)<br>- 📚 I'm currently learning C++</p>
 
 ###
 
